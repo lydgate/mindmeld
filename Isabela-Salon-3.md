@@ -1,6 +1,6 @@
 ## The social basis of our self-stories: Parents, peers, & online peeps
 
-- Everything is intersubjectivity: Even when we're not in front of a listener, we are thinking (and writing) with an "other" being referenced somehow. [[Ursula LaGuin]]: 
+- Everything is [[Intersubjectivity]]: Even when we're not in front of a listener, we are thinking (and writing) with an "other" being referenced somehow. [[Ursula LaGuin]]: 
     - Le Guin points out that all speech invariably presupposes a listener:
     - In human conversation, in live, actual communication 
 between or among human beings, everything “transmitted” — everything 
