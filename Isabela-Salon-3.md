@@ -28,3 +28,7 @@ collaboration with others who challenge, listen, and validate these evolving nar
 literature has to teach us about the ways we can be better collaborators and co-authors to our friends' identity narratives (hint: "Honesty matters. Vulnerability matters. Being open about who you were at a moment in time when you were in a difficult or an impossible place matters more than anything." - Neil Gaiman).
 - We will also explore the important characteristics of co-authors we ask to help with our own self storybuilding. How important is it to have friends who are good listeners, attending to the intentions behind our behaviours rather than being seduced by our performative efforts? Do we ultimately require different friends to express the different aspects of our selves? Or is it possible to find one or few
 relationships in which the baffling multiplicity of our selves can be authentically expressed? These questions, and so many more that will surely be brought to the discussion by salon participants, will provide the scaffold for our evening together.
+
+### Discussion
+
+Le Guin's argument seems to relate to the [[Private Language Argument]].
