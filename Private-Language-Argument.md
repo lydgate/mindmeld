@@ -10,7 +10,7 @@ He does this not through a single-stranded argument but by a number of examples,
 In other words... I think it's like arguing that all meaning is intersubjective, emergent, and social, and that the idea of some abstract land of ideas (sounds a bit platonic) is inconsistent.
 Possibly this is projecting too much of my own thinking onto Wittgenstein, whom I haven't read in any detail.
 
-Le Guin's argument that all speech presupposes a listener (from [Isabela Salon 3]) seems related to this argument.
+Le Guin's argument that all speech presupposes a listener (from [[Isabela Salon 3]]) seems related to this argument.
 
 Thomas Kuhn felt that most attempts at an "objective language" would probably lead to a dead-end, or at least all attempts by the time he had writing had failed.
 He was talking more about a scientific language of percepts than one of concepts -- not sure if this matters.
