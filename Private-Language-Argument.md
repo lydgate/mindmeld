@@ -20,3 +20,6 @@ I'm interested in this argument because it has implications for [[Ego Formation]
 If language (social) is a pre-condition for narrative meaning, and the ego is a narrative construction, then it suggests that coherent identity can only be formed on top of social interactions.
 There is no private language, so there is no narrative identity in the absence of social interactions.
 Identity emerges from communication, rather than language being about communicating some pre-existing identity.
+
+But when and why does language originate?
+[[Origins of Language]]
