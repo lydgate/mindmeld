@@ -2,6 +2,11 @@
 
 So if Linda B. Smith is right, and vision is what leads to language, then is Freud right, that upright gait changes vision?
 Or are the people who think it's about fruit and depth perception right?
+
+> The diminution of the olfactory stimuli seems itself to be a consequence of man’s raising himself from the ground, of his assumption of an upright gait; this made his genitals, which were previously concealed, visible and in need of protection, and so provoked feelings of shame in him.
+
+-- Freud, _Civilization and its Discontents_.
+
 There is even a possibility that it is the colour of snakes?
 These are obviously of interest given my [[Garden of Eden]] obsession.
 
