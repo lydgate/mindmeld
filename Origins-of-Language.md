@@ -2,7 +2,12 @@ If identity depends on language, as I mostly failed to establish on [[Private La
 
 ## Linda B. Smith: Vision leads to language
 
-Linda B. Smith has some videos on this (need to find them).
+Linda B. Smith has some videos on this.
+Possibly these?
+
+- [Linda B. Smith: Word Learning From the Infant's Point of View - YouTube](https://www.youtube.com/watch?v=_v-M5H67FQI)
+- [Linda Smith | Common sense and the visual experiences of toddlers - YouTube](https://www.youtube.com/watch?v=nxRzDt6kR_E)
+- [PsyTalks: Episode 1 - Movement and babies' learning development - YouTube](https://www.youtube.com/watch?v=yMyn8j8sMjA)
 
 The important part she adds to the discussion is embodiment.
 And fundamentally the complex systems/dynamic system lens.
