@@ -14,3 +14,5 @@ These are obviously of interest given my [[Garden of Eden]] obsession.
 
 - Fruit: [Food search through the eyes of a monkey: A functional substitution approach for assessing the ecology of primate color vision - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0042698913001119)
 - Snakes: [Snakes as agents of evolutionary change in primate brains - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0047248406000182)
+
+[[Ontogeny recapitulates phylogeny]]
