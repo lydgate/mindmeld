@@ -12,3 +12,23 @@ I think we need a place to talk about this wiki process. Just notes about how it
 * * https://slate.com/human-interest/2010/09/two-is-the-magic-number-a-new-science-of-creativity.html (one example of the many good articles on creative partnerships)
 * * I'm not just riffing on this because I'm thinking we're Lennon and McCartney :-). It is DIRECTLY related to [[intersubjectivity]]. When you can offload parts of your creative process, or your intellectual effort, or emotional labour, to someone else, you can presumably attend to the other stuff you like/do best. Once you have that process habitualized, I think you tend to internalize that "other" like the voice of your mother that gets internalized by the time you're about 6-8 years old, often conceived as Freud's superego (which takes route after the onset of [theory of mind](https://www.sciencedirect.com/topics/neuroscience/theory-of-mind)). I wonder if good partnerships allow you to actually transcend all those old patterns that had you stuck listening to your superego... There's a lot more to write about this, but not in this meta section. I'll connect back to the intersubjectivity section, but how do I do that? Do we cut and paste one section into the other that it relates to? Does the wiki automatically connect these sections? I need a more explicit map of how these various parts of the wiki will become interrelated. 
 * > This connects to my general proclivity to take anything that is understood as an individual process -- "stuff"residing "inside" the individual, be they emotion, cognition, creative inspiration, beliefs -- and imagine them as fundamentally a social process instead. Of course, this connects to our discussion about [[intersubjectivity]]. Almost every contribution I made in my academic theoretical work was to take a model that was built for considering the individual, and reconceptualize it as (at least) dyadic (often these are better thought of as group processes, but the difficulty there was always the methodologies in psychology which make the "three body problem" super difficult to empirically analyze). I can give loads of examples, and I actually want to, but don't want to deviate right now (see wish list above for bookmarking thoughts to return to, in some systematic way).
+
+## General reaction to above
+
+- We have a lot of chat and maybe that is ok, like having lots of temporary notes we scribble down anywhere before "processing."
+- Systematic way of tracking things to return to is a great idea (though I try to do this in readwise and never remember to check the tags -- could be a project for today).
+- Visual links are nice, but I have a (weak) preference to stay manual, because it forces us to traverse more often.
+  One problem with normal note-taking systems is you're usually writing at the "end" of the notebook and rarely flipping through.
+  Here I could see us working on "edge" pages and never revisiting earlier stuff, unless it requires a bit of maintenance.
+  This doesn't mean I'm opposed to any automation at all but I'm bit wary of doing that stuff too early.
+- I want to experiment with editing each other since I trust git's history.
+  I am very happy for you to change my text.
+- Volleys could be as simple as using `##` for header separators and sticking on one page, then processing elsewhere.
+  We'll likely just have to trythings.
+
+## Experiments to try
+
+- Agree overall structure/bullet points, write paragraphs separately, combine later
+- Divide argument up by paragraphs, alternate who writes them
+- Divide paragraphs by sentence, alternate who writes them
+- 

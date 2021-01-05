@@ -1,0 +1,3 @@
+- Timed meditation.
+- Guided meditation? Could agree them on Insight Timer.
+- Need to think about how I learned visualisation and embodied stuff besides just trial-and-error.
