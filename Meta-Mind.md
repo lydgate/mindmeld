@@ -23,12 +23,22 @@ I think we need a place to talk about this wiki process. Just notes about how it
   This doesn't mean I'm opposed to any automation at all but I'm bit wary of doing that stuff too early.
 - I want to experiment with editing each other since I trust git's history.
   I am very happy for you to change my text.
-- Volleys could be as simple as using `##` for header separators and sticking on one page, then processing elsewhere.
-  We'll likely just have to trythings.
+- Volleys could be as simple as using `##` for header separators and alternating adding to one page, then processing elsewhere.
+  We'll likely just have to try things.
 
 ## Experiments to try
 
 - Agree overall structure/bullet points, write paragraphs separately, combine later
 - Divide argument up by paragraphs, alternate who writes them
 - Divide paragraphs by sentence, alternate who writes them
-- 
+
+## Readwise todo tags
+
+OK as mentioned above I had a look at these, basically I use one for "todo" and one for "zk."
+There are 7 things in todo (I tag things like book or movie recommendations just to note).
+And 16 things in zk (I tag things I should think through in the zettelkasten).
+I probably just need to come up with a habit of doing this.
+
+So I think we should just agree conventions for future tags (or we can each make up our own) and then I will have a look at pulling those into somewhere.
+They should be lightweight. I can always change them ALL later in a find-replace in like about 10 seconds.
+So I think just start using whatever you want and we'll work it out later.

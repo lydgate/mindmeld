@@ -15,3 +15,11 @@ I'm really interested in the various ways we might be navigating intersubjetivit
 * Lewis puts it this way: "Without any strategy or forethought, you end up with an indescribable sense of “where you are” in cyberspace by paying attention to who and what shows up in your notifications. There’s a mysterious quality to it all. The algorithm seems to route tweets to the very people who will understand what the hell you’re talking about. You think you’re typing inside jokes to yourself, but it almost always turns out that there are others out there who get you."
 * The impact of this type of feedback is that you start using these platforms/tools to augment your own internal voices, leaving it very hard to figure out what comes from your own genuine values/beliefs/identity core and what comes from trying to "please" or connect with your "audience"
 	* authenticity, in this light, becomes a very murky concept
+
+## Why this is of interest
+
+1. Intersubjectivity interests me on a purely theoretical level (basic science/just wanting to know how it works level)
+1. on a developmental level for the purposes of considering how kids could grow up with another model of learning and creative output
+1. and on a very pragmatic level, for purposes of (maybe) writing a book and using that as the cornerstone of workshops/training/public talks/mentorship relationships going forward.
+
+I can say this for many other topics we've covered in the last few weeks. The playful bouncing of ideas between us works for my mind well, and the emergence of new stuff keeps me super engaged.
