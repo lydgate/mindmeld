@@ -12,7 +12,10 @@ I think we need a place to talk about this wiki process. Just notes about how it
 * * https://slate.com/human-interest/2010/09/two-is-the-magic-number-a-new-science-of-creativity.html (one example of the many good articles on creative partnerships)
 * * I'm not just riffing on this because I'm thinking we're Lennon and McCartney :-). It is DIRECTLY related to [[intersubjectivity]]. When you can offload parts of your creative process, or your intellectual effort, or emotional labour, to someone else, you can presumably attend to the other stuff you like/do best. Once you have that process habitualized, I think you tend to internalize that "other" like the voice of your mother that gets internalized by the time you're about 6-8 years old, often conceived as Freud's superego (which takes route after the onset of [theory of mind](https://www.sciencedirect.com/topics/neuroscience/theory-of-mind)). I wonder if good partnerships allow you to actually transcend all those old patterns that had you stuck listening to your superego... There's a lot more to write about this, but not in this meta section. I'll connect back to the intersubjectivity section, but how do I do that? Do we cut and paste one section into the other that it relates to? Does the wiki automatically connect these sections? I need a more explicit map of how these various parts of the wiki will become interrelated. 
 * > This connects to my general proclivity to take anything that is understood as an individual process -- "stuff"residing "inside" the individual, be they emotion, cognition, creative inspiration, beliefs -- and imagine them as fundamentally a social process instead. Of course, this connects to our discussion about [[intersubjectivity]]. Almost every contribution I made in my academic theoretical work was to take a model that was built for considering the individual, and reconceptualize it as (at least) dyadic (often these are better thought of as group processes, but the difficulty there was always the methodologies in psychology which make the "three body problem" super difficult to empirically analyze). I can give loads of examples, and I actually want to, but don't want to deviate right now (see wish list above for bookmarking thoughts to return to, in some systematic way).
-# - I think one product of our work that could possibly end up a book because it's almost written in my head could be on creative collectives, with a focus on [[creative duos]] [[book idea]]
+
+## Book
+
+- I think one product of our work that could possibly end up a book because it's almost written in my head could be on creative collectives, with a focus on [[creative duos]] [[book idea]]
     - it can start with a review of many creative duos throughout history
     - then identify the core elements of successful/effective duos
         - these could start with abstract/conceptual theories around intersubjectivity within and between individuals
@@ -21,7 +24,6 @@ I think we need a place to talk about this wiki process. Just notes about how it
     - I love this because how-to books, productivity gurus/blogs and so on are constantly talking about individual productivity, systems to improve those, views of the genius as singular and how to optimize for that, etc.
     - some talk about Brain Eno's scenius, and of course the characteristics of creative scenes are related
     - but few books/arguments/approaches to creative output urge us to find our creative partner(s). Even for one singular project, guiding people to making good decisions and following effective processes could be so useful and genuinely novel contribution to creativity, craft, and productivity
-
 
 ## General reaction to above
 
