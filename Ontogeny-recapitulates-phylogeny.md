@@ -17,6 +17,9 @@ See [Recapitulation theory - Wikipedia](https://en.wikipedia.org/wiki/Recapitula
 - Clothing/awareness of nakedness
 - Suffering/depression
 - "Age of reason"
+- Lack of heat
+- Menopause
+- Glabrousness
 
 ## Places to drill down
 
