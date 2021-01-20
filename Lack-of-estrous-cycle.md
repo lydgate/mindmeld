@@ -1,6 +1,6 @@
 ## Humans menstruate/lack estrous cycle
 
-[[Ontogeny recpaitulates phylogeny]]
+[[Ontogeny recapitulates phylogeny]]
 
 Most mammals have an estrous cycle and go into heat, then have sex only during that period.
 The endometrium is absorbed afterwards. 
