@@ -1,5 +1,7 @@
 ## Humans menstruate/lack estrous cycle
 
+[[Ontogeny recpaitulates phylogeny]]
+
 Most mammals have an estrous cycle and go into heat, then have sex only during that period.
 The endometrium is absorbed afterwards. 
 In primates (possibly only primates), this is not what happens; they shed the endometrium, and also they can basically have sex whenever.
