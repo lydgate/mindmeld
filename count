@@ -1,0 +1,8 @@
+#!/usr/bin/zsh
+git pull -q || exit 1
+C=$(find . -name \*.md | wc -l)
+L=$(ag --stats  -c '\[\[' | awk '/[0-9] matches$/ {print $1}')
+W=$(wc -w **/*.md | awk '/total/ {print $1}')
+echo "| $(date +%F) | $C | $L | $W |" >> Stats.md
+git add Stats.md
+git commit -q -m "Update Zettel count"
