@@ -16,7 +16,7 @@ I'm really interested in the various ways we might be navigating intersubjetivit
 * The impact of this type of feedback is that you start using these platforms/tools to augment your own internal voices, leaving it very hard to figure out what comes from your own genuine values/beliefs/identity core and what comes from trying to "please" or connect with your "audience"
 	* authenticity, in this light, becomes a very murky concept
 
-- [[zettel]] We are born with the ability to cultivate [[intersubjectivity]] from our very first days, with babies quickly becoming entrained to their mother's voice, gestures, eye contact, and body postures in synchronized, attuned dances that give rise to language.
+- [[zettel]][[innate intersubjectivity]] We are born with the ability to cultivate [[intersubjectivity]] from our very first days, with babies quickly becoming entrained to their mother's voice, gestures, eye contact, and body postures in synchronized, attuned dances that give rise to language.
         - Keywords:: [[intersubjectivity]] [[infancy]] [[language]] [[ontogeny-phylogeny]]
         - Authors:: Colywyn [[Trevarthen]] 
         - **Key Points**:: 
