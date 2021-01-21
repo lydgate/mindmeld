@@ -22,9 +22,11 @@ I'm really interested in the various ways we might be navigating intersubjetivit
 - Authors:: Colywyn [[Trevarthen]] 
 - **Key Points**:: 
     - human adults' cognitive capacities seem so complex and it is by virtue of this complexity that it's presumed that they can socially interact in the varied ways they do (built on their years of development that includes practical experience, abstract thinking skills, language capacities, and so on); its this complexity that is usually implicated in our unique capacity for [[intersubjectivity]]
+        - Love the idea that intersubjectivity precedes the adult complex cognitive skills, and also that it may _produce_ those skills. This is similar to the view from [[Enactivism]], isn't it?
+        - **Question**: Are you saying that cognition itself is built on top of interaction, or that cognition itself is inherently interactive?
     - But Trevarthen argues (and to some degree demonstrates empirically) that infants as young as 2 months old (and even younger) exhibit intersubjective capacities
         - "...detailed research on how [[neonatal]] selves coordinate the rhythms of their movements and senses, and how they engage in intimate and seductive precision with other persons' movements, sensing their purposes and feelings, gives evidence that it is so."
-            - [Rhythm, movement, senses](https://youtu.be/8VhSwbQ1rk0?t=12)
+            - [Babies on youtube: Rhythm, movement, senses](https://youtu.be/8VhSwbQ1rk0?t=12)
         - within minutes from birth, infants are able to will themselves into emotionally charged co-regulated movement and "become part of a dramatic narration of being in companionship with another person (Brazelton, 1979; Trevarthen, 1979)."
     - We are born with a neural system that allows us to pick up subtle shifts in motivated attention in the other
         - the infant knows to adjust and coordinate to those shifts in attention, seeking affection, interest, and connection from the other 
@@ -44,8 +46,9 @@ I'm really interested in the various ways we might be navigating intersubjetivit
     - 
 - **Random thoughts post Trevarthen**
     - i’d like to think more about how these early proto coordinations and synchronizations and playful regulated motoric dances grow into early concepts, categorizations, relational words, and then full-blown narratives that are internalized but always from intersubjective processes
-    - what happens when the grasping, the "apprehension," is not a solitary act and not one about objects (only), but grasping gets extended from the individual baby grasping and apprehending a thing, bringing that thing towards the mouth, the face, closer to the eyes... to  grasping for the other, the apprehension is of the the other, the other's intention, the other's physical attunement, the other's affective reach and how does that extend out into language later? 
-
+        - It feels like this relates to resonance, frequency, "connnectome-specific harmonic waves" in the brain. I read this phrase [here](https://hyp.is/BriuSFveEeuHN_fLHgclKQ/opentheory.net/2018/12/the-neuroscience-of-meditation/) and know little about it otherwise, though actually I've just remembered that [Carhart-Harris 2014 also mentions oscillatory rhythms](https://hyp.is/djBX2lveEeulbvMpvU0Tdw/www.frontiersin.org/articles/10.3389/fnhum.2014.00020/full).
+    - what happens when the [[Grasping]], the "apprehension," is not a solitary act and not one about objects (only), but grasping gets extended from the individual baby grasping and apprehending a thing, bringing that thing towards the mouth, the face, closer to the eyes... to  grasping for the other, the apprehension is of the other, the other's intention, the other's physical attunement, the other's affective reach and how does that extend out into language later? 
+        - Grasp is super important, I'm creating a page for this. Merleau-Ponty and McGilchrist, maybe also Jaynes write about it.
 
 ## Why this is of interest
 
