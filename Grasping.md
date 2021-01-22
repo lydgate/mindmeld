@@ -7,6 +7,13 @@ In "Digitalizing Literacy" I learned that Merleau-Ponty wrote about the importan
 > 
 >> It is the body that 'catches' […] 'and 'comprehends' movement. The acquisition of a habit is indeed the **grasping** of a significance, but it is the motor **grasping** a motor significance. […] If habit is neither a form of knowledge nor any involuntary action, then what is it? It is a knowledge in the hands [Merleau-Ponty's example is knowing how to use a typewriter], which is forthcoming only when bodily effort is made, and cannot be formulated in detachment from that effort. (Merleau-Ponty, 1962 [1945], pp. 143-144).
 
+[Aeon interoception article](https://via.hypothes.is/https://aeon.co/essays/the-interoceptive-turn-is-maturing-as-a-rich-science-of-selfhood): Noka Arikha summarises Manos Tsakiris' research on the RHI.
+[Hypothesis: selfhood](https://hypothes.is/a/IiBTnOR1EeqKhWd9IjlSYw).
+
+Ernie: "And seems tied up to Merleau-Ponty with all of the phantom limb research."
+Phantom limb, rubber-hand illusion, selfhood, grasping.
+There's something in here.
+
 ## McGilchrist
 
 Here's me searching McGilchrist for "grasp":
