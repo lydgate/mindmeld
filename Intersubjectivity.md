@@ -46,7 +46,14 @@ I'm really interested in the various ways we might be navigating intersubjetivit
         - there was a lot of describing of these dynamics in terms of music, poetry, rhythm, dance, especially by Stern... He basically argued that much of the power of these artforms took their roots from these very early mother-infant temporal patterning
         - they spoke of "entrainment" a  lot, and how intention and affect would be co-captured (my weird term, but that was the gist) and then played with in an exploratory way, forming the basis of how relationships would emerge 
     - see also Merlin Donald's theory of how the human mind evolved (2001): he says a culture of expressive and creative mimesis was the foundation for the emergence of language. Infectious mimetic fantasy [[play]] 
-    - 
+
+- **Examples of emergent oscillating/entrained systems**
+I'd like to collect a bunch of interesting examples of systems that become entrained in real time. Their properties might give us a set of principles by which to think about how human interaction examples can be evaluated, measured, modified. Some I can think of (I'll provide references for some later):
+   - babies rocking to dad guitar...
+   - Synchronized pendulums
+   - coo-coo clocks
+   - the menstrual cycles of women living in the same house become synchronized (ok, not in real time, bad example)
+   - brain regions oscillate at same frequency
 - **Random thoughts post Trevarthen**
     - i’d like to think more about how these early proto coordinations and synchronizations and playful regulated motoric dances grow into early concepts, categorizations, relational words, and then full-blown narratives that are internalized but always from intersubjective processes
         - It feels like this relates to resonance, frequency, "connnectome-specific harmonic waves" in the brain. I read this phrase [here](https://hyp.is/BriuSFveEeuHN_fLHgclKQ/opentheory.net/2018/12/the-neuroscience-of-meditation/) and know little about it otherwise, though actually I've just remembered that [Carhart-Harris 2014 also mentions oscillatory rhythms](https://hyp.is/djBX2lveEeulbvMpvU0Tdw/www.frontiersin.org/articles/10.3389/fnhum.2014.00020/full).
