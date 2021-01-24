@@ -30,3 +30,24 @@ Santiago - by David Whyte
 McGilchrist on right left right
 
 > At the first level, it tells us something about the constant, relatively stable, inter relation of the hemispheres at their best. In a way it is Nietzsche’s point about the fruitful relation of the Apollonian and Dionysian. Within the realm of the left hemisphere (‘where there is danger’) there is also the possibility of an ‘unfolding’ of what is implicit, which, if returned to the right hemisphere, will lead to something greater and better coming forward (‘that which will save us’). This sounds very abstract, but I think it can be made clearer by an example. If we subject a work of art, say, or even the human body, to detached, analytic attention, we lose the sense of the thing itself, and its being in all its wholeness and otherness recedes. But the result of such attention, provided it is then relinquished, so that we stand in a state of openness and receptivity before the thing once again, may be a deeper and richer ‘presencing’. The work of the left hemisphere done, the thing ‘returns’ to the right hemisphere positively enriched. The best criticism of works of art produces just this result, and the study of medicine at its best achieves it, too, in relation to the human body. Again it is the analogy of the necessary analysis carried out by the pianist in learning a piece, an analysis that must be forgotten during performance. The ‘danger’ inherent in the process is the potential arrogance of the left hemisphere, which may not allow the return: it may come to think of itself as all in all. 
+
+
+The Swan
+
+by Rainer Maria Rilke
+
+This laboring of ours with all that remains undone,
+as if still bound to it,
+is like the lumbering gait of the swan.
+
+And then our dying—releasing ourselves
+from the very ground on which we stood—
+is like the way he hesitantly lowers himself
+
+into the water. It gently receives him,
+and, gladly yielding, flows back beneath him,
+as wave follows wave,
+while he, now wholly serene and sure,
+with regal composure,
+allows himself to glide.
+
