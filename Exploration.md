@@ -36,18 +36,19 @@ The Swan
 
 by Rainer Maria Rilke
 
-This laboring of ours with all that remains undone,
-as if still bound to it,
-is like the lumbering gait of the swan.
+> This laboring of ours with all that remains undone,
+> as if still bound to it,
+> is like the lumbering gait of the swan.
+> 
+> And then our dying—releasing ourselves
+> from the very ground on which we stood—
+> is like the way he hesitantly lowers himself
+> 
+> into the water. It gently receives him,
+> and, gladly yielding, flows back beneath him,
+> as wave follows wave,
+> while he, now wholly serene and sure,
+> with regal composure,
+> allows himself to glide.
 
-And then our dying—releasing ourselves
-from the very ground on which we stood—
-is like the way he hesitantly lowers himself
-
-into the water. It gently receives him,
-and, gladly yielding, flows back beneath him,
-as wave follows wave,
-while he, now wholly serene and sure,
-with regal composure,
-allows himself to glide.
-
+Abstraction is taking examples and then crystallizing them into something that is indissoluble into the parts that composed it.
