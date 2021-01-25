@@ -56,3 +56,5 @@ I probably just need to come up with a habit of doing this.
 So I think we should just agree conventions for future tags (or we can each make up our own) and then I will have a look at pulling those into somewhere.
 They should be lightweight. I can always change them ALL later in a find-replace in like about 10 seconds.
 So I think just start using whatever you want and we'll work it out later.
+
+See [[2021-01-25]], when we discussed some of the above.
