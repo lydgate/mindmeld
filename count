@@ -6,3 +6,4 @@ W=$(wc -w **/*.md | awk '/total/ {print $1}')
 echo "| $(date +%F) | $C | $L | $W |" >> Stats.md
 git add Stats.md
 git commit -q -m "Update Zettel count"
+git push -q
