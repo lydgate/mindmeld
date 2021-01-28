@@ -18,6 +18,8 @@ I'm really interested in the various ways we might be navigating intersubjetivit
 
 [[zettel]] [[innate intersubjectivity]] We are born with the ability to cultivate [[intersubjectivity]] from our very first days, with babies quickly becoming entrained to their mother's voice, gestures, eye contact, and body postures in synchronized, attuned dances that give rise to language.
 
+![Trevarthen](img/trevarthen.jpg)
+
 - Keywords:: [[intersubjectivity]] [[infancy]] [[language]] [[ontogeny-phylogeny]]
 - Authors:: Colywyn [[Trevarthen]] 
 - **Key Points**:: 
