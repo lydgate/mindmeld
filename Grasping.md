@@ -1,3 +1,7 @@
+## Buddhism
+
+See [Upādāna - Wikipedia](https://en.wikipedia.org/wiki/Up%C4%81d%C4%81na).
+
 ## Merleau-Ponty
 
 In "Digitalizing Literacy" I learned that Merleau-Ponty wrote about the importance of **grasp** in habit formation.
