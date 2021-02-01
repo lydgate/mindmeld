@@ -41,6 +41,7 @@ I'm really interested in the various ways we might be navigating intersubjetivit
             - human infants are born with motives and emotions that fuel action that sustain intersubjectivity and build attunement: "a human being is born capable of seeking and [[play]]ing with others' attentions and feelings in a rich variety of provocative, humorous and teasing ways (Reddy, 2008)."
             - Trevarthen (2001... also Breaten w/ Treverathen?): these rituals that first emerge in synchronized actions with adults become the seedbed of imaginative learning and shared cultural forms
     - These early synchronized, modulated, co-regulatory [[dyad]]ic dances are the basis for not only a coherent sense of self, but also a model of others' minds
+        - See [[Co creation of the self]]
     - This kind of fine-tuned co-regulation of affect and movement is **not seen in any other animal** (it's not just pure mimicry, which you DO see in other animals)
     - Darwin was fascinated with these co-regulation processes himself: 
         - "My first child was born on December 27th, 1839, and I at once commenced to make notes on the first dawn of the various expressions which he exhibited, for I felt convinced, even at this early period, that the most complex and fine shades of expression must all have had a gradual and natural origin." (Darwin, 1887/1958, p. 131).
