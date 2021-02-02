@@ -11,3 +11,5 @@ Rather than providing legitimate reasons, this module provides legitimate-seemin
 In this telling, the self is co-created by interactions with others, because we need to _appear_ competent and rational.
 
 Kevin Simler and Robin Hanson, The Elephant in the Brain: Hidden Motives in Everyday Life (Oxford University Press, 2018).
+
+See discussion [[2021 02 01]].
