@@ -1,12 +1,13 @@
+- [[2021-01-24]]:- [ ] Find this visionary/revisionary thing.
 - [[2021-01-24]]:- [ ] Chaos order chaos.
 - [[2021-01-24]]:- [ ] Explore exploit explore.
-- [[2021-01-24]]:- [ ] Find this visionary/revisionary thing.
 - [[2021-01-24]]:- [ ] Returning to youth.
+- [[2021-02-01]]:- [ ] IG: Find blog chart or give more information... mirror of blog, stages
+- [[2021-02-01]]:  - [ ] IG: something about this
 - [[2021-02-01]]:  - [ ] BK: Ask Jake
 - [[2021-02-01]]:- [ ] [Geertz paper](https://hyp.is/vSfJKl8hEeuN07d4UKi_eg/www.ias.edu/clifford-geertz-work-and-legacy)
 - [[2021-02-01]]:- [ ] [Haptics of writing](https://hyp.is/QKnWMFvfEeudTtvOEEIk-g/www.intechopen.com/books/advances-in-haptics/digitizing-literacy-reflections-on-the-haptics-of-writing)
-- [[2021-02-01]]:- [ ] IG: Find blog chart or give more information... mirror of blog, stages
-- [[2021-02-01]]:  - [ ] IG: something about this
-- [[2021-02-02]]:- [ ] Apprenticeship (Graeber; Germany)
-- [[2021-02-02]]:- [ ] Shame and execution hypothesis
 - [[2021-02-02]]:- [ ] Sleeping alone
+- [[2021-02-02]]:- [ ] Shame and execution hypothesis
+- [[2021-02-02]]:- [ ] Apprenticeship (Graeber; Germany)
+- [[2021-02-02]]:- [ ] BK: Add footer 
