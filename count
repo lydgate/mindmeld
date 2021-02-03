@@ -1,4 +1,36 @@
 #!/usr/bin/zsh
+#
+usage(){
+    echo "Usage: $0 [-t]"
+    exit 1
+}
+error(){
+    echo "ERROR: $*"
+    exit 1
+}
+info(){
+    echo "INFO: $*"
+}
+count(){
+	rg -N -g '!Todo.md' --sort=path -- '\[ \]' | sed -e 's/^/- [[/' -e 's#daily/##' -e 's/.md/]]/' > Todo.md
+	git add Todo.md
+}
+
+if [ $# -gt 0 ]; then
+	case $1 in
+		-h)
+			usage
+			;;
+		-t)
+			count
+			exit 0
+			;;
+		*)
+			usage
+			;;
+	esac
+fi	
+
 git pull -q || exit 1
 C=$(find . -name \*.md | wc -l)
 L=$(ag --stats  -c '\[\[' | awk '/[0-9] matches$/ {print $1}')
@@ -6,8 +38,7 @@ W=$(wc -w **/*.md | awk '/total/ {print $1}')
 echo "| $(date +%F) | $C | $L | $W |" >> Stats.md
 git add Stats.md
 
- rg -N -g '!Todo.md' --sort=path -- '\[ \]' | sed -e 's/^/- [[/' -e 's#daily/##' -e 's/.md/]]/' > Todo.md
-git add Todo.md
+count
 
 git commit -q -m "Update Zettel count/Generate todo list"
 git push -q
