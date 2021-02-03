@@ -11,3 +11,4 @@
 - [[2021-02-02]]:- [ ] Shame and execution hypothesis
 - [[2021-02-02]]:- [ ] Apprenticeship (Graeber; Germany)
 - [[2021-02-02]]:- [ ] BK: Add footer 
+- [[2021-02-03]]:- 00:10 [ ] IG: The hidden layer in PDP systems and back propagation... in old-school connectionist/AI system development 
