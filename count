@@ -5,5 +5,9 @@ L=$(ag --stats  -c '\[\[' | awk '/[0-9] matches$/ {print $1}')
 W=$(wc -w **/*.md | awk '/total/ {print $1}')
 echo "| $(date +%F) | $C | $L | $W |" >> Stats.md
 git add Stats.md
-git commit -q -m "Update Zettel count"
+
+ rg -N -g '!Todo.md' --sort=path -- '\[ \]' | sed -e 's/^/- [[/' -e 's#daily/##' -e 's/.md/]]/' > Todo.md
+git add Todo.md
+
+git commit -q -m "Update Zettel count/Generate todo list"
 git push -q
