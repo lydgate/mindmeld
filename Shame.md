@@ -1,0 +1,5 @@
+- Article: [Science watch: Singled out](https://www.apa.org/monitor/2009/04/social)
+  - Baumeister, R.F., Brewer, L.E., Tice, D.M., & Twenge, J.M. (2007) The need to belong: Understanding the interpersonal and inner effects of social exclusion. Social and Personality Psychology Compass, 1, 506–520.
+  - MacDonald, G., and Leary, M.R. (2005) Why does social exclusion hurt? The relationship between social and physical pain. Psychological Bulletin, 131, 202–223.
+  - Williams, K.D. Ostracism: Effects of being excluded and ignored. (2009) Advances in Experimental Social Psychology, 41, 279–314.
+- Paper: [An evolutionary social psychological approach to studying the effects of ostracism.](https://psycnet.apa.org/fulltext/2012-24858-004.html)
