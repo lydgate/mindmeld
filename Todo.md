@@ -1,3 +1,10 @@
+- [[Co-creation-of-the-self]]:- [ ] BK: See [Phenomenological Approaches to Self-Consciousness (Stanford Encyclopedia of Philosophy): Intersubjective and social forms of self-consciousness](https://plato.stanford.edu/entries/self-consciousness-phenomenological/#SocForSelCon)
+- [[Co-creation-of-the-self]]:- [ ] BK: Imposition of surnames
+- [[Co-creation-of-the-self]]:- [ ] BK: Master and Commander
+- [[Co-creation-of-the-self]]:- [ ] BK: Locke and self-identification
+- [[Co-creation-of-the-self]]:- [ ] BK: Freud, Oceanic Feeling, Constructing Boundaries
+- [[Co-creation-of-the-self]]:- [ ] BK: Anil Seth, interoception
+- [[Co-creation-of-the-self]]:- [ ] BK: Noga Arikha on Tsakiris
 - [[2021-01-24]]:- [ ] Find this visionary/revisionary thing.
 - [[2021-01-24]]:- [ ] Chaos order chaos.
 - [[2021-01-24]]:- [ ] Explore exploit explore.
