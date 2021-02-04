@@ -7,7 +7,7 @@ A child is first social and interactive, and selfhood comes as a side effect of 
 - [ ] BK: See [Phenomenological Approaches to Self-Consciousness (Stanford Encyclopedia of Philosophy): Intersubjective and social forms of self-consciousness](https://plato.stanford.edu/entries/self-consciousness-phenomenological/#SocForSelCon)
 - [x] BK: [[Surnames]]
 - [ ] BK: Master and Commander
-- [ ] BK: Locke and self-identification
+- [x] BK: [[Locke on Identity]]
 - [ ] BK: Freud, Oceanic Feeling, Constructing Boundaries
 - [ ] BK: Anil Seth, interoception
 - [ ] BK: Noga Arikha on Tsakiris
