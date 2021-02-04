@@ -5,7 +5,7 @@ A child is first social and interactive, and selfhood comes as a side effect of 
 - [[Press Secretary]]
 - [[Late Bronze Age Collapse]]
 - [ ] BK: See [Phenomenological Approaches to Self-Consciousness (Stanford Encyclopedia of Philosophy): Intersubjective and social forms of self-consciousness](https://plato.stanford.edu/entries/self-consciousness-phenomenological/#SocForSelCon)
-- [ ] BK: Imposition of surnames
+- [x] BK: [[Surnames]]
 - [ ] BK: Master and Commander
 - [ ] BK: Locke and self-identification
 - [ ] BK: Freud, Oceanic Feeling, Constructing Boundaries
