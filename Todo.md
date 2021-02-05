@@ -3,6 +3,7 @@
 - [[Co-creation-of-the-self]]:- [ ] BK: Freud, Oceanic Feeling, Constructing Boundaries
 - [[Co-creation-of-the-self]]:- [ ] BK: Anil Seth, interoception
 - [[Co-creation-of-the-self]]:- [ ] BK: Noga Arikha on Tsakiris
+- [[Co-creation-of-the-self]]:- [ ] IG: Five points about _Grizzly Man_ from Whatsapp
 - [[2021-01-24]]:- [ ] Find this visionary/revisionary thing.
 - [[2021-01-24]]:- [ ] Chaos order chaos.
 - [[2021-01-24]]:- [ ] Explore exploit explore.

@@ -11,3 +11,4 @@ A child is first social and interactive, and selfhood comes as a side effect of 
 - [ ] BK: Freud, Oceanic Feeling, Constructing Boundaries
 - [ ] BK: Anil Seth, interoception
 - [ ] BK: Noga Arikha on Tsakiris
+- [ ] IG: Five points about _Grizzly Man_ from Whatsapp
