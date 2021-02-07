@@ -8,7 +8,7 @@ See [Recapitulation theory - Wikipedia](https://en.wikipedia.org/wiki/Recapitula
 - Attention to faces
 - Joint attention
 - Walking (upright gait)
-- Language
+- [[Language]]
 - Theory of mind
 - Selfhood/[[Ego Formation]]
 - Deception
