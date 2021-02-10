@@ -17,9 +17,9 @@
 - [[2021-02-01]]:- [ ] [Haptics of writing](https://hyp.is/QKnWMFvfEeudTtvOEEIk-g/www.intechopen.com/books/advances-in-haptics/digitizing-literacy-reflections-on-the-haptics-of-writing)
 - [[2021-02-02]]:- [ ] Sleeping alone
 - [[2021-02-03]]:- 00:10 [ ] IG: The hidden layer in PDP systems and back propagation... in old-school connectionist/AI system development 
-- [[2021-02-10]]:    * [ ] Continue with characteristics of revolutions
-- [[2021-02-10]]:    * [ ] Continue with timeline for humanity/civilization
-- [[2021-02-10]]:    * [ ] Critical periods
-- [[2021-02-10]]:    * [ ] Robert Sapolsky's lectures on biological 
-- [[2021-02-10]]:    * [ ] Sapolsky: [https://youtu.be/X9CnuCvfhEc](https://www.google.com/url?q=https://youtu.be/X9CnuCvfhEc&sa=D&source=editors&ust=1612990454297000&usg=AOvVaw3uE0iGfHQ0CSRyI-es9odb)
-- [[2021-02-10]]:    * [ ] BK: Look into Lamarck
+- [[2021-02-10]]:  - [ ] Continue with characteristics of revolutions
+- [[2021-02-10]]:  - [ ] Continue with timeline for humanity/civilization
+- [[2021-02-10]]:  - [ ] Critical periods
+- [[2021-02-10]]:  - [ ] Robert Sapolsky&#39;s lectures on biological 
+- [[2021-02-10]]:  - [ ] Sapolsky: [https://youtu.be/X9CnuCvfhEc](https://www.google.com/url?q=https://youtu.be/X9CnuCvfhEc&amp;sa=D&amp;source=editors&amp;ust=1612990454297000&amp;usg=AOvVaw3uE0iGfHQ0CSRyI-es9odb)
+- [[2021-02-10]]:  - [ ] BK: Look into Lamarck
