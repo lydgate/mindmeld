@@ -10,6 +10,7 @@
 - [[2021-01-24]]:- [ ] Chaos order chaos.
 - [[2021-01-24]]:- [ ] Explore exploit explore.
 - [[2021-01-24]]:- [ ] Returning to youth.
+- [[2021-01-24]]:- [ ] IG: Kringelbach video
 - [[2021-02-01]]:- [ ] IG: Find blog chart or give more information... mirror of blog, stages
 - [[2021-02-01]]:  - [ ] IG: something about this
 - [[2021-02-01]]:  - [ ] BK: Ask Jake
