@@ -27,3 +27,16 @@ Neural threat response in social vs non-social context (Coen et al., 2006)
 - _Our baseline is calm while close_
 - _Being alone itself is stressful_
 
+**(Social) Predictive Brain**
+- ok... now what I want to do is add the predictive brain into this (Coen is also a fan of Friston and I think he may have done some work with this predictive brain model himself, but I didn't read it, just talked with a colleague about these ideas ages ago)
+- Premise: (We know that) we are constantly making predictions about our coping capacities, based on Baysian “priors” (Friston, Clark, Hinton, etc.)
+- Prediction errors are the info we use to learn, cope, respond
+- SBT’s key contribution: some of our most important predictions/tuned perceptions are about the _social_ environment, not more general features of our world; our predictions regarding how much personal resources (cog/emo/phys) to allocate to a task at hand depend on available social resources
+  - https://www.youtube.com/watch?v=8y2RHMGqbWk
+- Social support reduces physical reactivity to stress by down regulating SNS activity (e.g., Blascovich, Mendes)
+- When expectations of social support are violated, we need to recruit more of our own intra-individual cognitive and physiological resources
+- If this increased demand and effort is prolonged, causing chronic stress, we are severely compromised both physically and mentally and now... now we get to those mind-body connections that Slavich is critical for explicating.
+- Slavich shows at the mechanistic levels that social support is protective against stress-related illnesses ranging from common cold, to asthma, diabetes, heart disease, and a range of cancers ([Slavich's Social Safety THeory](https://www.annualreviews.org/doi/pdf/10.1146/annurev-clinpsy-032816-045159)) 
+
+
+
