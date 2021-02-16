@@ -7,5 +7,3 @@ https://en.wikipedia.org/wiki/William_T._Greenough
 
 
 
-**Further thoughts on process** (probably should go into Meta Mind, but let's talk more about how we're going to track the meta-comments about the content we write about here)
-- I think we're already getting pretty close to needing to use consistent terms of specific concepts that we write about repeatedly. Most obvious examples: chaos-order-chaos, 
