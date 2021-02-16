@@ -6,7 +6,7 @@ Some papers summarizing the approach:
 - [Description of the hand-holding task](https://www.youtube.com/watch?v=JeKNDZujYYk) of the neural social task that Coan uses to test aspects of his theory
    - prefrontal cortex lights up when anticipating feeling pain (electric shock) and it is dramatically reduced when holding the hands of a loved one, compared to not holding anyone's hand or a stranger's hand. 
 
-Summary of theory by Coan: Social Baseline Theory (SBT), [is] a perspective that integrates the study of social relationships with principles of attachment, behavioral ecology, cognitive neuroscience, and perception science. SBT suggests the human brain expects access to social relationships that mitigate risk and diminish the level of effort[^1] needed to meet a variety of goals. This is accomplished in part by incorporating relational partners into neural representations of the self. By contrast, decreased access to relational partners increases cognitive and physiological effort. Relationship disruptions entail re-defining the self as independent, which implies greater risk, increased effort, and diminished well being. The ungrafting of the self and other may mediate recovery from relationship loss.
+Summary of theory by Coan: Social Baseline Theory (SBT), [is] a perspective that integrates the study of social relationships with principles of attachment, behavioral ecology, cognitive neuroscience, and perception science. SBT suggests the human brain expects access to social relationships that mitigate risk and diminish the level of effort needed to meet a variety of goals. This is accomplished in part by incorporating relational partners into neural representations of the self. By contrast, decreased access to relational partners increases cognitive and physiological effort. Relationship disruptions entail re-defining the self as independent, which implies greater risk, increased effort, and diminished well being. The ungrafting of the self and other may mediate recovery from relationship loss.
 
 ## Basic premises of Social Baseline Theory
 
@@ -15,13 +15,14 @@ Summary of theory by Coan: Social Baseline Theory (SBT), [is] a perspective that
 - Social proximity are energy-saving mechanisms
 - Being alone increases real and perceived costs of energy consumption
 - We expect to be in relationships that require joint attention, shared goals and social support
-- Social proximity decreases costs of activity through (a) risk distribution and (b) load sharing (to be defined later)
+- [ ] IG: Social proximity decreases costs of activity through (a) risk distribution and (b) load sharing (to be defined later)
 - _Bottom Line_: We were not evolved to do anything much on our own. Our entire physiology is different when we are alone, especially under conditions of potential threat (we are in high alert). Being alone during periods of potential threat is "wrong" for humans, at least to the extent that we did not evolve under such conditions. Our baseline is SOCIAL. We are at rest or, neurally and more broadly physically, we exist at a steady, healthy baseline when we are around those who take care of us and, in turn, we take care of. This is in contrast to ALMOST ALL OF THE FIELD OF PSYCHOLOGY AND NEUROSCIENCE which has tested and developed theories around the individual (my obsession over this is that I suspect that 90% of all the fMRI studies, all the neuroscience -- and most egregious, social neuroscience -- has put people into magnets and measured their brains when they were inherently in whacky situations because they were alone in a stressful context). Everything we know about the human brain we know from testing people in super-abnormal situations of isolation; my bet is that the brain is working in very different ways if we were to measure it in "hand holding" conditions, metaphorically... starting from our true baseline, in other words. 
 
 ## Main experimental task testing SBT assumptions
 
 Neural threat response in social vs non-social context (Coan et al., 2006)
--Three experimental conditions (alone, stranger hand-holding, partner hand-holding)
+
+- Three experimental conditions (alone, stranger hand-holding, partner hand-holding)
 - In fMRI measures during anticipation of electric shock:
    - Neural response to threat highest in stranger
    - Less activation in emotion regulation regions in partner condition
@@ -32,7 +33,7 @@ Neural threat response in social vs non-social context (Coan et al., 2006)
 ## (Social) Predictive Brain
 
 - ok... now what I want to do is add the predictive brain into this (Coan is also a fan of Friston and I think he may have done some work with this predictive brain model himself, but I didn't read it, just talked with a colleague about these ideas ages ago)
-- Premise: (We know that) we are constantly making predictions about our coping capacities, based on Baysian “priors” (Friston, Clark, Hinton, etc.)
+- Premise: (We know that) we are constantly making predictions about our coping capacities, based on Bayesian “priors” (Friston, Clark, Hinton, etc.)
 - Prediction errors are the info we use to learn, cope, respond
 - SBT’s key contribution: some of our most important predictions/tuned perceptions are about the _social_ environment, not more general features of our world; our predictions regarding how much personal resources (cog/emo/phys) to allocate to a task at hand depend on available social resources
   - https://www.youtube.com/watch?v=8y2RHMGqbWk
@@ -43,4 +44,6 @@ Neural threat response in social vs non-social context (Coan et al., 2006)
 
 ### Comments
 
-[^1]: Diminishing effort levels seems super important and related to this issue of brain network efficiency.
+- Diminishing effort levels seems super important and related to this issue of brain network efficiency.
+- It seems to indicate that socialisation is about specialisation (social roles) and probably also that it relates to cumulative culture, i.e. that tool-use is about copying what someone else is doing. Cumulative culture extends tool-use by assuming that the tool works as observed. Social specialisation extends group tasks by assuming that certain things are taken care of. Both allow extensions in a lazy fashion, based on trust. Humans assume rituals are important. [Horner & Whiten 2004](https://link.springer.com/article/10.1007/s10071-004-0239-6).
+- Totally see how the above relates to the question of [[Co-creation of the self]]. The social self **precedes** the individual self. The individual self is a "hack" on the social one. This is why Cartesian thinking makes no sense (starting with "I think therefore I am"). There is no possibility of "I" before "we".

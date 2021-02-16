@@ -6,6 +6,7 @@
 - [[Co-creation-of-the-self]]:- [ ] IG: Five points about _Grizzly Man_ from Whatsapp
 - [[Language]]:- [ ] BK: Process word/world thread
 - [[Language]]:- [ ] BK: Process word/world zettel [[12/506a1]]
+- [[Social-Baseline-Theory]]:- [ ] IG: Social proximity decreases costs of activity through (a) risk distribution and (b) load sharing (to be defined later)
 - [[2021-01-24]]:- [ ] Find this visionary/revisionary thing.
 - [[2021-01-24]]:- [ ] Chaos order chaos.
 - [[2021-01-24]]:- [ ] Explore exploit explore.

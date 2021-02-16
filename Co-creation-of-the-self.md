@@ -4,6 +4,7 @@ A child is first social and interactive, and selfhood comes as a side effect of 
 
 - [[Press Secretary]]
 - [[Late Bronze Age Collapse]]
+- [[Social Baseline Theory]]
 - [ ] BK: See [Phenomenological Approaches to Self-Consciousness (Stanford Encyclopedia of Philosophy): Intersubjective and social forms of self-consciousness](https://plato.stanford.edu/entries/self-consciousness-phenomenological/#SocForSelCon)
 - [x] BK: [[Surnames]]
 - [ ] BK: Master and Commander
