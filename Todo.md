@@ -23,3 +23,4 @@
 - [[2021-02-10]]:  - [ ] Robert Sapolsky&#39;s lectures on biological 
 - [[2021-02-10]]:  - [ ] Sapolsky: [https://youtu.be/X9CnuCvfhEc](https://www.google.com/url?q=https://youtu.be/X9CnuCvfhEc&amp;sa=D&amp;source=editors&amp;ust=1612990454297000&amp;usg=AOvVaw3uE0iGfHQ0CSRyI-es9odb)
 - [[2021-02-10]]:  - [ ] BK: Look into Lamarck
+- [[2021-02-15]]:- [ ] Consider moving developmental stages from [[2021-02-01]] to its own page
