@@ -1,4 +1,4 @@
-**James Coen's Social Baseline Theory **
+**James Coen's Social Baseline Theory**
 
 Some papers summarizing the approach:
 - [Social Baseline Theory](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4375548/)
