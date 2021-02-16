@@ -11,7 +11,7 @@
 - [[2021-01-24]]:- [ ] Explore exploit explore.
 - [[2021-01-24]]:- [ ] Returning to youth.
 - [[2021-01-24]]:- [ ] IG: Kringelbach video
-- [[2021-02-01]]:- [ ] IG: Find blog chart or give more information... mirror of blog, stages
+- [[2021-02-01]]:- [X] IG: Find blog chart or give more information... mirror of blog, stages
 - [[2021-02-01]]:  - [ ] IG: something about this
 - [[2021-02-01]]:  - [ ] BK: Ask Jake
 - [[2021-02-01]]:- [ ] [Geertz paper](https://hyp.is/vSfJKl8hEeuN07d4UKi_eg/www.ias.edu/clifford-geertz-work-and-legacy)
