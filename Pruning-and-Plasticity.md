@@ -15,6 +15,8 @@ There's a lot of excellent work on the processes of neural pruning that will be 
 
 https://en.wikipedia.org/wiki/William_T._Greenough
 
+
+One study in Child Development (made a huge splash at the time and still relevant, despite being done in 1987): [Experience and Brain Development (Child Development)](https://www.jstor.org/stable/1130197?seq=1) 
 ABSTRACT: experience can influence the developing and mature brain and proposes a new categorization scheme based upon the type of information stored and the brain mechanisms that appear to be involved in storing it. In this scheme, experience-expectant information storage refers to incorporation of environmental information that is ubiquitous in the environment and common to all species members, such as the basic elements of pattern perception. Experience-expectant processes appear to have evolved as a neural preparation for incorporating specific information: in many sensory systems, synaptic connections between nerve cells are overproduced, and a subsequent selection process occurs in which aspects of sensory experience determine the pattern of connections that remains. Experience-dependent information storage refers to incorporation of environmental information that is idiosyncratic, or unique to the individual, such as learning about one's specific physical environment or vocabulary. The neural basis of experience-dependent processes appears to involve active formation of new synaptic connections in response to the events providing the information to be stored. Although these processes probably do not occur entirely independently of one another in development, the categories offer a new view more in accord with neural mechanisms than were terms like "critical" or "sensitive period."
 
 
