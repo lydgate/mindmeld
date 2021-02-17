@@ -1,4 +1,5 @@
 There's a lot of excellent work on the processes of neural pruning that will be important to dive into in relation to many of the ideas we've already explored. 
+
     -In particular, pruning and plasticity and how our brains fluctuate across development between these phases seems (at least to me) related to the chaos-order-chaos ideas. 
     -It's probably also important to explore this topic through the lens of ontogeny recapitulating phylogeny. For example, the move from a stable period of neural configurations in late childhood is followed by a massive proliferation of neurons and subsequent dramatic period of rapid pruning. 
     - This may be likened to the concept of punctuated equilibria over evolutionary time that Gould in particular wrote about (periods of stability that are broken up nonlinearly by massive phase transitions that change basically everything, by first creating "chaos" and then creating pressure for restabilization). 
