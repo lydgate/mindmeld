@@ -25,3 +25,11 @@
 - [[2021-02-10]]:  - [ ] Sapolsky: [https://youtu.be/X9CnuCvfhEc](https://www.google.com/url?q=https://youtu.be/X9CnuCvfhEc&amp;sa=D&amp;source=editors&amp;ust=1612990454297000&amp;usg=AOvVaw3uE0iGfHQ0CSRyI-es9odb)
 - [[2021-02-10]]:  - [ ] BK: Look into Lamarck
 - [[2021-02-15]]:- [ ] Consider moving developmental stages from [[2021-02-01]] to its own page
+- [[2021-02-17]]:    - [ ] Gottlieb's epigenetic landscape work: important for probabalistic rather than deterministic views of development and for the ontogeny-phylogeny connection
+- [[2021-02-17]]:    - [ ] Don Tucker's work on kindling in depression: important for notions of criticality, phase transitions, sensitivity to perturbations, and depression as an attractor with extending basins over development
+- [[2021-02-17]]:    - [ ] integrate work on criticality with... everything
+- [[2021-02-17]]:- [ ] [Developmental Systems Theory](http://paulgriffiths.representinggenes.org/wordpress/wp-content/uploads/publications/C1_41.pdf)?
+- [[2021-02-17]]:- [ ] Look up DS book
+- [[2021-02-17]]:    - [ ] BK: Gould. Spandrel? Side-effect or byproduct
+- [[2021-02-17]]:    - [ ] BK to read [Coan](https://scholar.google.com/citations?hl=en&user=8JyaSpgAAAAJ&view_op=list_works&sortby=pubdate): Social Baseline Theory
+- [[2021-02-17]]:    - [ ] BK to read Slavich: Social Safety Theory
