@@ -7,6 +7,8 @@
 - [They Live By Night](https://www.imdb.com/title/tt0040872/) (1948)
 - [Lola Montès](https://www.imdb.com/title/tt0048308/?ref_=nv_sr_srsg_0) (1955)
 - [The Killing](https://www.imdb.com/title/tt0049406/?ref_=fn_al_tt_3) (1956)
+- [Look Back in Anger](https://www.imdb.com/title/tt0051879/?ref_=nv_sr_srsg_0) (1959)
+- [Saturday Night and Sunday Morning](https://www.imdb.com/title/tt0054269/?ref_=nv_sr_srsg_6) (1960)
 - [Deep End](https://www.imdb.com/title/tt0066122/?ref_=nv_sr_srsg_2) (1970)
 - [Head-On](https://www.imdb.com/title/tt0347048/) (2004)
 
