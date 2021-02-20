@@ -9,7 +9,9 @@
 - [The Killing](https://www.imdb.com/title/tt0049406/?ref_=fn_al_tt_3) (1956)
 - [Look Back in Anger](https://www.imdb.com/title/tt0051879/?ref_=nv_sr_srsg_0) (1959)
 - [Saturday Night and Sunday Morning](https://www.imdb.com/title/tt0054269/?ref_=nv_sr_srsg_6) (1960)
+- [The Servant](https://www.imdb.com/title/tt0057490/?ref_=nv_sr_srsg_2) (1963)
 - [Deep End](https://www.imdb.com/title/tt0066122/?ref_=nv_sr_srsg_2) (1970)
+- [Performance](https://www.imdb.com/title/tt0066214/?ref_=nv_sr_srsg_0) (1970)
 - [Head-On](https://www.imdb.com/title/tt0347048/) (2004)
 
 ### Fassbinder
