@@ -33,3 +33,5 @@
 - [[2021-02-17]]:    - [ ] BK: Gould. Spandrel? Side-effect or byproduct
 - [[2021-02-17]]:    - [ ] BK to read [Coan](https://scholar.google.com/citations?hl=en&user=8JyaSpgAAAAJ&view_op=list_works&sortby=pubdate): Social Baseline Theory
 - [[2021-02-17]]:    - [ ] BK to read Slavich: Social Safety Theory
+- [[2021-02-23]]:    - [ ] BK: Drill down on why nature is non-anticipatory and this is important
+- [[2021-02-23]]:  - [ ] We need to know more about these first things that have specific immunity
